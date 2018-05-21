@@ -39,6 +39,9 @@ img{
     /* 25D */
     float: top;
 }
+a:visited{
+    color: white;
+}
 .article{
     /* 25F */
     /* 27G */
